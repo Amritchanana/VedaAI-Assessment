@@ -74,7 +74,7 @@ export function Topbar({ breadcrumb, title, showBack = false, showProgress = fal
           {/* User */}
           <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
             <Image
-              src="/avatar.png"
+              src="/Avatar.png"
               alt="User Avatar"
               width={44}
               height={44}

@@ -257,7 +257,7 @@ export function Sidebar({ assignmentCount = 10 }: Props) {
           }}
         >
         <Image
-          src="/avatar.png"
+          src="/Avatar.png"
           alt="User Avatar"
           width={44}
           height={44}
